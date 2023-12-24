@@ -180,3 +180,16 @@ footer a{
     font-size: 20px;
     font-weight: 500;
 }
+
+@media screen and (max-width:768px) {
+    /* .main{
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: 50vh;
+    } */
+    
+}
+@media screen and (max-width:414px) {
+   
+    
+}
